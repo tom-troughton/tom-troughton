@@ -1,6 +1,4 @@
--  Hi, I’m Tom
--  I’m interested in natural language processing
--  I’m currently studying data science at the University of Birmingham
+Data Scientist working in Insurance Analytics
 
 
 <!---
